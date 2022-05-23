@@ -1,0 +1,15 @@
+{
+  "name": "testeautomationpractice",
+  "version": "1.0.0",
+  "description": "Teste Automation Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TM",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "selenium-webdriver": "^4.1.2"
+  }
+}
